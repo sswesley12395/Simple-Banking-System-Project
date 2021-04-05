@@ -8,8 +8,14 @@ Sudents of Doctor Awny Alnusair Associate Professor of Informatics: Shontina Wes
   Class Description 
   Bank Class test usability of the Bank package and contains the coding to display menu and bank statistics
   Account class is the superclass that holds basic account functions
-  Checking class has the methods that apply maintenance fee, transacaction fees, and minimum balance specs
-  Gold class has the interest method
+  Checking class - subclass  -has the methods that apply maintenance fee, transacaction fees, and minimum balance specs
+  Gold class -has the interest method
   Regular class has interest method and minimum balance specs
+  ##### Challenges 
+  It was more difficult to operate as a team working on 1 file, we had to work closer than on previous 
+  projects
+  We completed all coding 
+  ###### Known bugs
+  We could not get menu option 8 to implement
   
 
